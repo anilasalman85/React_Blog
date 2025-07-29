@@ -1,4 +1,4 @@
-#My Blog
+# My Blog
 ### **Overview**
 
 This project is a simple static Travel Blog Web Application developed using React. It features a set of hard-coded travel blog posts displayed using reusable components and props. The purpose of the app is to demonstrate a clear understanding of React fundamentals like component structure and data passing via props.
